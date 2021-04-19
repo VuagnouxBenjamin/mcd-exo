@@ -1,0 +1,5 @@
+- Trouver les entités dans l'énnoncé
+- Relier les entités aves les associations 
+- Compléter les entités avec les attribtus qui conviennent
+- Ajouter les cardinalités
+- Ajouter les types de relation. 
